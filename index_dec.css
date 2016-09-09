@@ -1,0 +1,20 @@
+h1, h2, h3 {
+    color: rgb(164, 164, 0);
+    background-color: rgb(240, 240, 240);
+    font-family: Century Gothic, Futura, Verdana, sans-serif, Serif;
+    text-decoration:  underline;
+    letter-spacing: 0.2em;
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    color: rgb(64, 64, 64);
+    font-family: Century Gothic, Futura, Verdana, sans-serif, Serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    background-image: url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
+}
